@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><title><font color="#3a86b8">Schema Of Things</font></title></head>
+<head><font color="#3a86b8">Schema Of Things</font></head>
 <subhead><font color="#519785">A collaborative representation of the creative freedom in pursuing a balanced, optimally productive, and fulfilled life.</font></subhead>
 <body>
 <h2> Colors </h2> 
