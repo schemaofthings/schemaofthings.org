@@ -1,6 +1,3 @@
-# Beginner's Schema 
-The Schema Towards Productivity Fulfillment
-
 <!DOCTYPE html>
 <html>
 <head><title><font color="#3a86b8">Schema Of Things</font></title></head>
