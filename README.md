@@ -4,7 +4,7 @@ The Schema Towards Productivity Fulfillment
 <!DOCTYPE html>
 <html>
 <head><title><font color="#3a86b8">Schema Of Things</font></title></head>
-<subhead> <font color="#519785">A collaborative representation of the creative freedom in pursuing a balanced, optimally productive, and fulfilled life.</font></subhead>
+<subhead><font color="#519785">A collaborative representation of the creative freedom in pursuing a balanced, optimally productive, and fulfilled life.</font></subhead>
 <body>
 <h2> Colors </h2> 
 <h1 style="background-color:#4c4c4c;">#4c4c4c</h1>
