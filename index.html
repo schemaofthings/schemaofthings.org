@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Collaboration Landing Page</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .header {
+            background: #004a7c;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+        }
+        .main {
+            padding: 20px 0;
+        }
+        .main h2 {
+            color: #004a7c;
+        }
+        .cta {
+            background: #e3e3e3;
+            padding: 20px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        .cta p {
+            font-size: 1.2em;
+        }
+        .cta button {
+            background: #004a7c;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+        .form-container {
+            background: #e3e3e3;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .form-container input, .form-container textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+        }
+        .form-container button {
+            background: #004a7c;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+        .socials {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .socials a {
+            margin: 0 10px;
+            color: #004a7c;
+            text-decoration: none;
+            font-size: 1.5em;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #004a7c;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to Our Collaboration Project</h1>
+        <p>Join us in creating the next big thing in digital services</p>
+    </div>
+    <div class="container">
+        <div class="main">
+            <h2>Our Vision</h2>
+            <p>We aim to unite like-minded talent to create a platform that integrates website creation, email marketing, social media management, and more. Our goal is to develop an app that helps users track, analyze, and prospect their own customized digital journey towards professional, academic, and personal fulfillment.</p>
+        </div>
+        <div class="cta">
+            <p>Interested in joining our project?</p>
+            <button onclick="document.getElementById('form-section').scrollIntoView()">Apply Now</button>
+        </div>
+        <div id="form-section" class="form-container">
+            <h2>Contact Us</h2>
+            <form action="https://docs.google.com/forms/d/e/1FAIpQLSefk8ZxJYH1Rq4oT5hTnJfh9z5O3nZa9V49Xl5lK5doU4XVEg/formResponse" method="POST">
+                <input type="text" name="entry.2005620554" placeholder="Your Name" required>
+                <input type="email" name="entry.1045781291" placeholder="Your Email" required>
+                <textarea name="entry.839337160" rows="4" placeholder="Why do you want to join?" required></textarea>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+        <div class="socials">
+            <a href="https://www.youtube.com/" target="_blank">YouTube</a>
+            <a href="https://www.instagram.com/" target="_blank">Instagram</a>
+            <a href="https://www.tiktok.com/" target="_blank">TikTok</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Collaboration Project. All Rights Reserved.</p>
+	<p><a href="README.md">Read the README</a></p>
+    </footer>
+</body>
+</html>
+
+
